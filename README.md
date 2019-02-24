@@ -11,3 +11,10 @@ Problem Statement: You own the mall and want to understand the customers like wh
 
 # Acknowledgements
 From Udemy's Machine Learning A-Z course.
+
+# References
+[Clustering Algorithms for Customer Segmentation](http://towardsdatascience.com/clustering-algorithms-for-customer-segmentation-af637c6830ac)  
+[Customer Segmentation Theoy](http://searchsalesforce.techtarget.com/definition/customer-segmentation)  
+[Benefits of Customer Segmentation](http://postfunnel.com/4-benefits-customer-segmentation-higher-profitability/)  
+[K-Means Clustering in R](http://www.datasciencecentral.com/profiles/blogs/find-marketing-clusters-in-20-minutes-in-r)  
+[Principal Component Analysis](http://en.wikipedia.org/wiki/Principal_component_analysis)

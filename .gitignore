@@ -11,6 +11,8 @@
 # Output files from R CMD build
 /*.tar.gz
 
+*.rb linguist-language=R
+
 # Output files from R CMD check
 /*.Rcheck/
 
